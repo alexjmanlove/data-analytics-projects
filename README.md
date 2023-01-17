@@ -2,8 +2,7 @@
 
 This is a collection of three projects I developed while working as a data insight analyst for Dunelm.
 
-**Key technologies**: 
->`Python`, `SQL`, `pandas`, `NumPy`, `Microsoft Excel`.
+**Key technologies**: `Python`, `SQL`, `pandas`, `NumPy`, `Microsoft Excel`.
 
 ## 1. TV Marketing Campaign Analysis   
 
@@ -14,7 +13,7 @@ This is a collection of three projects I developed while working as a data insig
 >This analysis was complicated by the COVID lockdowns that occured in the UK. In particular the advertising campaign launched on the same day that the third lockdown resstrictions were relaxed. Therefore the task was not simply to measure the uplift, but also to measure the uplift on top of what would already have resulted due to end of lockdown.
 
 **Solution**
-In Python leveraging the package PyCausalInference we were able to apply a Bayesian causal inference model to help estimate the causal effect of the campaign on revenue uplift over key product categories, using similar product categories as a control group. The project made use of historical data to train and test the model, and the key learnings were used to inform future marketing strategies. 
+>In Python leveraging the package PyCausalInference we were able to apply a Bayesian causal inference model to help estimate the causal effect of the campaign on revenue uplift over key product categories, using similar product categories as a control group. The project made use of historical data to train and test the model, and the key learnings were used to inform future marketing strategies. 
 
 **Preview**
 >![image](https://user-images.githubusercontent.com/79708390/213026884-6718aa08-5aa4-49fe-bd76-9af913a209ba.png)
