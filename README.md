@@ -1,6 +1,6 @@
 # Data Analytics Internship Projects
 
-This is a collection of three data science and econometrics projects I developed while working as a data insight analyst intern for Dunelm.
+This is a collection of three data science and econometrics projects I developed while working as a data insight analyst intern for Dunelm Group in 2021.
 
 **Key technologies**: `Python`, `SQL`, `pandas`, `NumPy`, `Microsoft Excel`.
 
